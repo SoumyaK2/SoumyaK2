@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **soumyakayal2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VlHlJZZ9k0u1cmZzRqGdbQTyB9q-5KPg/view?usp=sharing](https://drive.google.com/file/d/1VlHlJZZ9k0u1cmZzRqGdbQTyB9q-5KPg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VlHlJZZ9k0u1cmZzRqGdbQTyB9q-5KPg/view?usp=sharing](https://drive.google.com/file/d/1WE7X1mL94aRqhAevzPZ9020jsSOYZHGT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
