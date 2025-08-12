@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Kayal</h1>
-<h3 align="center">A passionate developer who knows how to design a website effectively.😄</h3>
+<h3 align="center">Aspiring Data Analyst | Python, SQL and Power BI.😄</h3>
 <img align="center" width="200" src="https://media.baamboozle.com/uploads/images/413863/1627221567_259001_gif-url.gif" alt="hi_image">
 <img align="right" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif" alt="coding_image">
 
